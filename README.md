@@ -27,3 +27,11 @@ _ _ _
 - WorldPositiontoScrrenPositionTool.unitypackage:
 
 游戏中有多个摄像机的时候，把场景中对象的坐标转化到画布坐标使用，其实很简单，但还是备忘记录一下吧。
+
+
+- text_with_image_component_demo.unitypackage
+支持图文混排的 文本组件
+
+
+-add_3d_gameobject_click_event.unitypackage:
+是给3D物体点击事件的一个逻辑脚本，以及物体的事件响应Demo等等。
